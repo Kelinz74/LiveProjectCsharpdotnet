@@ -189,3 +189,6 @@ When you press the delete button from the details or the delete link from the in
   
 
 ![photo](https://github.com/Kelinz74/LiveProjectCsharpdotnet/blob/main/deletecode.png?raw=true) 
+
+### Final
+This is the end of my contribution to the C#, ASP.NET MVC live project. It was an awesome experience working with a talented team. 
